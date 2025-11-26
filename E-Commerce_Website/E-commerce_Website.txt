@@ -1,0 +1,10 @@
+# E-commerce Website 
+
+This repository represents a demonstration of an e-commerce website project that I developed for academic and learning purposes.
+
+❗ Important Notes: 
+• This public repository does NOT contain any real commercial data.
+• It does NOT include any real product photos, brand resources, or proprietary code.
+• The actual source code and UI implementation are kept private.
+• If you would like to review the code or discuss the project, please contact me directly.
+
