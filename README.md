@@ -1,9 +1,9 @@
-# E-Commerce_Website
+E-Commerce_Website
 
-## 🛠️ Tech Stack
+Tech Stack:
 - PHP
 - SQL
 - HTML/CSS/JS
 
-## ❗ Important
+Important!
 For academic and demo purposes — real data intentionally excluded.  
